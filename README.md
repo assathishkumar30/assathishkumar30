@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assathishkumar30&label=Profile%20views&color=0e75b6&style=flat" alt="assathishkumar30" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Development, Java Selenium + Cucumber Framework, JMeter, AI Tools**
+- 🔭 I’m currently working on **AI Tools, Playwright + Typescript + AI Framework Creation from sctarch to Implementation**
 
 - 🌱 I’m currently learning **MERN Stack Development, Java Selenium + Cucumber, JMeter, AI Tools**
 
